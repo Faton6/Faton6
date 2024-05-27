@@ -41,7 +41,7 @@
 </h2>
 
 🔗**Find me here:**
-[![telegram](https://user-images.githubusercontent.com/49790977/170029701-296ebfb4-70a3-4ce1-ba26-42a4b419ebfa.svg)](https://t.me/Faton6)
+[Faton6](https://t.me/Faton6)
 
 <!--
 **Faton6/Faton6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
